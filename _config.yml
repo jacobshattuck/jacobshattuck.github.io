@@ -1,4 +1,5 @@
 title: Jake Shattuck
 logo: /assets/beach.png
-# theme: jeykll-theme-minimal
+#description: text below image
+theme: jekyll-theme-minimal
 

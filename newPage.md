@@ -1,5 +1,5 @@
 layout: page
 title: "NEW-PAGE"
-permalink: /newPage
+permalink: https://jacobshattuck.github.io/newPage
 
 Hell world

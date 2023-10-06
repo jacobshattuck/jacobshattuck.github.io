@@ -12,9 +12,9 @@ For three years I got to lead what is internally referred to as the MYA team (*M
 
 ### Senior Software Engineer, Products
 
-I was actually originally hired to write JavaScript, but had CICD knowledge from my time at Sony which ended up being very useful for our team. I ended up implementing a CICD pipeline responsible for deploying multiple applications. These applications also happen to be GoDaddy's most critical applications and account for ~29% of company revenue.
+I was the sole architect and primary developer for a CICD pipeline responsible for deploying multiple applications. These applications are some of GoDaddy's most critical applications and account for ~29% of company revenue.
 
-## Sony
+<!-- ## Sony
 
 ### Software Engineer
 
@@ -24,7 +24,7 @@ I was actually originally hired to write JavaScript, but had CICD knowledge from
 
 ## Targus Info
 
-### Software Engineer
+### Software Engineer -->
 
 
 

@@ -9,7 +9,7 @@
         <h2>Jake Shattuck</h2>
         <h3>Engineering Leader</h3>
         <img src="github-svgrepo-com.svg" height="16px" width="16px"/> <a href="https://github.com/jacobshattuck">GitHub</a> | 
-        <img src="linkedin-svgrepo-com.svg" height="16px" width="16px"/> <a href="https://linkedin.com/in/jacob-shattuck/">LinkedIn</a>
+        <img src="linkedin-svgrepo-com.svg" height="16px" width="16px"/> <a href="https://linkedin.com/in/jacob-shattuck/">LinkedIn</a>...
       </div>
     </center>
   </body>

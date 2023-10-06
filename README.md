@@ -25,3 +25,7 @@ I was actually originally hired to write JavaScript, but had CICD knowledge from
 ## Targus Info
 
 ### Software Engineer
+
+
+
+![https://www.linkedin.com/in/jacob-shattuck/](assets/linkedin.png)

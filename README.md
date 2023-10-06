@@ -17,7 +17,7 @@ For three years I got to lead and manage what is internally referred to as the M
 
 #### Senior Software Engineer, Products
 
-I was the sole architect and primary developer for a CICD pipeline responsible for deploying most of GoDaddy's most critical applications and account for ~29% of company revenue.
+I was the sole architect and primary developer for a CICD pipeline responsible for deploying most of GoDaddy's most critical applications and account for ~29% of company revenue. You can read more about that [here](https://jacobshattuck.github.io/godaddy-pipeline)
 
 <!-- ## Sony
 

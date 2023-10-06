@@ -8,11 +8,11 @@ Designing and implementing how dev teams will launch their apps on AWS, specific
 
 ### Manager of Software Development, Account Management
 
-For three years I got to lead what is internally referred to as the MYA team (*My A*ccount).
+For three years I got to lead and manage what is internally referred to as the MYA team (*My A*ccount). This team is responsible for ~12% of company revenue.
 
 ### Senior Software Engineer, Products
 
-I was the sole architect and primary developer for a CICD pipeline responsible for deploying multiple applications. These applications are some of GoDaddy's most critical applications and account for ~29% of company revenue.
+I was the sole architect and primary developer for a CICD pipeline responsible for deploying most of GoDaddy's most critical applications and account for ~29% of company revenue.
 
 <!-- ## Sony
 
@@ -28,4 +28,4 @@ I was the sole architect and primary developer for a CICD pipeline responsible f
 
 
 
-![https://www.linkedin.com/in/jacob-shattuck/](assets/linkedin.png)
+![LinkedIn logo](assets/smallLinkedin.png) <https://www.linkedin.com/in/jacob-shattuck/>
